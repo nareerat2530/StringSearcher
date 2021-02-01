@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.Iths_lab1.iml
+/projectSettingsUpdater.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\naree\RiderProjects\Iths_lab1\.idea\.idea.Iths_lab1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

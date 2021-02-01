@@ -1,0 +1,16 @@
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.exe
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.deps.json
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.runtimeconfig.json
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.runtimeconfig.dev.json
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.dll
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\ref\Iths_lab1.dll
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\bin\Debug\net5.0\Iths_lab1.pdb
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.csprojAssemblyReference.cache
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.AssemblyInfoInputs.cache
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.AssemblyInfo.cs
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.csproj.CoreCompileInputs.cache
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.dll
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\ref\Iths_lab1.dll
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.pdb
+C:\Users\naree\RiderProjects\Iths_lab1\Iths_lab1\obj\Debug\net5.0\Iths_lab1.genruntimeconfig.cache
