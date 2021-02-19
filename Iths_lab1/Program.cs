@@ -6,7 +6,7 @@ namespace Iths_lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the string ");
+            Console.WriteLine("Enter a string ");
             var input = Console.ReadLine();
             Console.WriteLine();
             
