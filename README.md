@@ -1,1 +1,1 @@
-# an appication interpret a text string as numbers
+# an appication that interpret a text string as numbers
